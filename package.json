@@ -1,0 +1,17 @@
+{
+  "name": "inkedin",
+  "version": "1.0.0",
+  "description": "Simple Booktore App For INKEDIN",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "opn": "^5.1.0"
+  },
+  "author": " Wendy Grapentine, Steven Bowen, Nick Vela",
+  "license": "ISC"
+}
